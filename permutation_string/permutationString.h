@@ -3,7 +3,7 @@
 
 #include "../define.h"
 
-int next_permutation(int n, char **s);
-void run();
+extern int next_permutation(int n, char **s);
+extern void run();
 
 #endif
